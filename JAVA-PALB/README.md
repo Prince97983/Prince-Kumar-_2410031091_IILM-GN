@@ -1,3 +1,3 @@
-# JAVA PALB (Training Subject) 
-This Repository is For subject JAVA PALB 
-, 4th semester , 2nd year
+# JAVA PALB (Training Subject)
+
+This repository is for the JAVA PALB subject (4th Semester, 2nd Year).
