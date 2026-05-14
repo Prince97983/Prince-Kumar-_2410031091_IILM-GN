@@ -1,1 +1,2 @@
-My Minor Project Files
+This Repository is for minor project 
+Anomaly Detection in IoT Network Traffic
