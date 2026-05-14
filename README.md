@@ -1,1 +1,2 @@
-# Prince-Kumar-_2410031091_IILM-GN
+# JAVA-PALB
+DSA practicing Question from GFG (greeks for geeks)
