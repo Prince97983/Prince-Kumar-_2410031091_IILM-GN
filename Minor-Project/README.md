@@ -1,3 +1,3 @@
-#MINOR PROJECT 
+# MINOR PROJECT 
 This Repository is for minor project 
-#Anomaly Detection in IoT Network Traffic
+# Anomaly Detection in IoT Network Traffic
